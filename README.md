@@ -1,6 +1,6 @@
 <h1>🎵 Spotify Playlist Downloader</h1> <br>
 <p>A simple Python GUI application to download songs from a Spotify playlist via YouTube using Spotipy and yt-dlp. The app fetches a Spotify playlist and searches for corresponding songs on YouTube for download.</p><br>
-<h3>✨ Features<br>  
+<h1>✨ Features </h1><br>  
 <ul>
   <li>✅ Fetch songs from a Spotify playlist</li>
   <li>✅ Display playlist songs in a user-friendly UI</li>
@@ -9,14 +9,14 @@
   <li>✅ Simple and easy-to-use interface</h3></li>
 </ul>
 
-📷 UI Preview
-🎵 Main Interface
+📷 UI Preview <br><br>
+🎵 Main Interface<br>
 ![image](https://github.com/user-attachments/assets/a8edf263-64c4-4ac6-86d9-06882c1d9259)
 
-🎶 Playlist Fetch
+🎶 Playlist Fetch<br>
 ![image](https://github.com/user-attachments/assets/71ee3717-7825-4c31-a0b7-ac508f4ab9a5)
 
-⬇️ Downloading Songs
+⬇️ Downloading Songs<br>
 ![image](https://github.com/user-attachments/assets/fa6b792d-d2a2-4950-b644-1041b13e5d8a)
 
 
