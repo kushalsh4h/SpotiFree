@@ -9,16 +9,17 @@
   <li>✅ Simple and easy-to-use interface</h3></li>
 </ul>
 
-📷 UI Preview <br><br>
-🎵 Main Interface<br>
+<h1>📷 UI Preview </h1><br><br>
+
+<h3>🎵 Main Interface </h3><br><br><br>
 ![image](https://github.com/user-attachments/assets/a8edf263-64c4-4ac6-86d9-06882c1d9259)
 
-🎶 Playlist Fetch<br>
+<h3>🎶 Playlist Fetch </h3><br><br><br>
 ![image](https://github.com/user-attachments/assets/71ee3717-7825-4c31-a0b7-ac508f4ab9a5)
 
-⬇️ Downloading Songs<br>
+<h3>⬇️ Downloading Songs </h3><br><br><br>
 ![image](https://github.com/user-attachments/assets/fa6b792d-d2a2-4950-b644-1041b13e5d8a)
 
 
-🛑 Disclaimer
-This project is for educational purposes only. Downloading copyrighted content may violate YouTube's Terms of Service. Use it responsibly.
+<h1>🛑 Disclaimer</h1> <br><br>
+<p>This project is for educational purposes only. Downloading copyrighted content may violate YouTube's Terms of Service. Use it responsibly.</p>
