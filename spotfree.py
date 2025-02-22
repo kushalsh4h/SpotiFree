@@ -5,8 +5,8 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 
 # Spotify API credentials
-SPOTIPY_CLIENT_ID = 'faba30778da5452cb62ca9780bbfc52e'
-SPOTIPY_CLIENT_SECRET = '86109c634c684f6f851d2679dc3f9197'
+SPOTIPY_CLIENT_ID = 'CLIENT ID'  # Replace With Your Own Spotify Dev Client ID
+SPOTIPY_CLIENT_SECRET = 'CLIENT KEY' # Replace With Your Own Spotify Dev Client KEY
 
 # Initialize Spotify API
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=SPOTIPY_CLIENT_ID,
