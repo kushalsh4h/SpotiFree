@@ -11,13 +11,13 @@
 
 <h1>📷 UI Preview </h1><br><br>
 
-<h3>🎵 Main Interface </h3><br><br><br
+<h3>🎵 Main Interface </h3><br><br><br>
 ![image](https://github.com/user-attachments/assets/a8edf263-64c4-4ac6-86d9-06882c1d9259)
 
-<h3>🎶 Playlist Fetch </h3><br><br><br
+<h3>🎶 Playlist Fetch </h3><br><br><br>
 ![image](https://github.com/user-attachments/assets/71ee3717-7825-4c31-a0b7-ac508f4ab9a5)
 
-<h3>⬇️ Downloading Songs </h3><br><br><br
+<h3>⬇️ Downloading Songs </h3><br><br><br>
 ![image](https://github.com/user-attachments/assets/fa6b792d-d2a2-4950-b644-1041b13e5d8a)
 
 
